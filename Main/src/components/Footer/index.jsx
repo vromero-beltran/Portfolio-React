@@ -4,15 +4,15 @@ function Footer() {
   const icons = [
     {
       name: "fab fa-github",
-      link: "https://github.com/"
+      link: "https://github.com/vromero-beltran"
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/"
+      link: "https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
     },
     {
       name: "fab fa-stack-overflow",
-      link: "https://stackoverflow.com/"
+      link: "https://stackoverflow.com/users/22224537/victor-romero"
     }
   ]
 
